@@ -84,6 +84,15 @@ http://vimeo.com/44773888
 
 
 
+## PHP
+
+
+**PHP Style Guide**
+
+https://github.com/maxdmyers/php-style-guide
+
+
+
 ## Typography 
 
 
